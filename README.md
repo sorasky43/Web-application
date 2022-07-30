@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>台灣發展歷史網頁</title>
     <meta name="description" content="年的此網頁介紹台灣過去經濟發展與經濟政策">
+    
     *{
     padding: 0;
     margin: 0;
@@ -207,4 +208,3 @@ section.right{
              width="250" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>    
     </main>
 </body>
-# Web-application
